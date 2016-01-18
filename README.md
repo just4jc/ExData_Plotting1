@@ -112,3 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/just4jc/exdata_plotting1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
